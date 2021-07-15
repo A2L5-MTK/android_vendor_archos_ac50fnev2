@@ -99,9 +99,14 @@ PRODUCT_COPY_FILES += \
     vendor/archos/ac50fnev2/proprietary/vendor/lib/lib3a.so:system/vendor/lib/lib3a.so \
     vendor/archos/ac50fnev2/proprietary/vendor/lib/libJpgEncPipe.so:system/vendor/lib/libJpgEncPipe.so \
     vendor/archos/ac50fnev2/proprietary/vendor/lib/libaed.so:system/vendor/lib/libaed.so \
+    vendor/archos/ac50fnev2/proprietary/vendor/lib/libaudiocompensationfilter.so:system/vendor/lib/libaudiocompensationfilter.so \
+    vendor/archos/ac50fnev2/proprietary/vendor/lib/libaudiocomponentengine.so:system/vendor/lib/libaudiocomponentengine.so \
     vendor/archos/ac50fnev2/proprietary/vendor/lib/libaudiocustparam.so:system/vendor/lib/libaudiocustparam.so \
     vendor/archos/ac50fnev2/proprietary/vendor/lib/libaudiotoolkit.so:system/vendor/lib/libaudiotoolkit.so \
+    vendor/archos/ac50fnev2/proprietary/vendor/lib/libbessound_hd_mtk.so:system/vendor/lib/libbessound_hd_mtk.so \
+    vendor/archos/ac50fnev2/proprietary/vendor/lib/libblisrc32.so:system/vendor/lib/libblisrc32.so \
     vendor/archos/ac50fnev2/proprietary/vendor/lib/libbluetooth_mtk.so:system/vendor/lib/libbluetooth_mtk.so \
+    vendor/archos/ac50fnev2/proprietary/vendor/lib/libbluetooth_mtk_pure.so:system/vendor/lib/libbluetooth_mtk_pure.so \
     vendor/archos/ac50fnev2/proprietary/vendor/lib/libbt-vendor.so:system/vendor/lib/libbt-vendor.so \
     vendor/archos/ac50fnev2/proprietary/vendor/lib/libbwc.so:system/vendor/lib/libbwc.so \
     vendor/archos/ac50fnev2/proprietary/vendor/lib/libc2kutils.so:system/vendor/lib/libc2kutils.so \
@@ -138,6 +143,7 @@ PRODUCT_COPY_FILES += \
     vendor/archos/ac50fnev2/proprietary/vendor/lib/libcameracustom.so:system/vendor/lib/libcameracustom.so \
     vendor/archos/ac50fnev2/proprietary/vendor/lib/libccci_util.so:system/vendor/lib/libccci_util.so \
     vendor/archos/ac50fnev2/proprietary/vendor/lib/libcustom_nvram.so:system/vendor/lib/libcustom_nvram.so \
+    vendor/archos/ac50fnev2/proprietary/vendor/lib/libcvsd_mtk.so:system/vendor/lib/libcvsd_mtk.so \
     vendor/archos/ac50fnev2/proprietary/vendor/lib/libdpframework.so:system/vendor/lib/libdpframework.so \
     vendor/archos/ac50fnev2/proprietary/vendor/lib/libfeatureio.so:system/vendor/lib/libfeatureio.so \
     vendor/archos/ac50fnev2/proprietary/vendor/lib/libfeatureiodrv.so:system/vendor/lib/libfeatureiodrv.so \
@@ -159,11 +165,14 @@ PRODUCT_COPY_FILES += \
     vendor/archos/ac50fnev2/proprietary/vendor/lib/libmdfx.so:system/vendor/lib/libmdfx.so \
     vendor/archos/ac50fnev2/proprietary/vendor/lib/libmnl.so:system/vendor/lib/libmnl.so \
     vendor/archos/ac50fnev2/proprietary/vendor/lib/libmrdump.so:system/vendor/lib/libmrdump.so \
+    vendor/archos/ac50fnev2/proprietary/vendor/lib/libmsbc_mtk.so:system/vendor/lib/libmsbc_mtk.so \
     vendor/archos/ac50fnev2/proprietary/vendor/lib/libmtcloader.so:system/vendor/lib/libmtcloader.so \
     vendor/archos/ac50fnev2/proprietary/vendor/lib/libmtk_drvb.so:system/vendor/lib/libmtk_drvb.so \
     vendor/archos/ac50fnev2/proprietary/vendor/lib/libmtk_mmutils.so:system/vendor/lib/libmtk_mmutils.so \
     vendor/archos/ac50fnev2/proprietary/vendor/lib/libmtkcam_fwkutils.so:system/vendor/lib/libmtkcam_fwkutils.so \
     vendor/archos/ac50fnev2/proprietary/vendor/lib/libmtkjpeg.so:system/vendor/lib/libmtkjpeg.so \
+    vendor/archos/ac50fnev2/proprietary/vendor/lib/libmtklimiter.so:system/vendor/lib/libmtklimiter.so \
+    vendor/archos/ac50fnev2/proprietary/vendor/lib/libmtkshifter.so:system/vendor/lib/libmtkshifter.so \
     vendor/archos/ac50fnev2/proprietary/vendor/lib/libnvram.so:system/vendor/lib/libnvram.so \
     vendor/archos/ac50fnev2/proprietary/vendor/lib/libnvram_daemon_callback.so:system/vendor/lib/libnvram_daemon_callback.so \
     vendor/archos/ac50fnev2/proprietary/vendor/lib/libnvram_platform.so:system/vendor/lib/libnvram_platform.so \
@@ -178,6 +187,7 @@ PRODUCT_COPY_FILES += \
     vendor/archos/ac50fnev2/proprietary/vendor/lib/librilmtkmd2.so:system/vendor/lib/librilmtkmd2.so \
     vendor/archos/ac50fnev2/proprietary/vendor/lib/librilproxy.so:system/vendor/lib/librilproxy.so \
     vendor/archos/ac50fnev2/proprietary/vendor/lib/librilproxyutils.so:system/vendor/lib/librilproxyutils.so \
+    vendor/archos/ac50fnev2/proprietary/vendor/lib/libspeech_enh_lib.so:system/vendor/lib/libspeech_enh_lib.so \
     vendor/archos/ac50fnev2/proprietary/vendor/lib/libstorage_otp.so:system/vendor/lib/libstorage_otp.so \
     vendor/archos/ac50fnev2/proprietary/vendor/lib/libterservice.so:system/vendor/lib/libterservice.so \
     vendor/archos/ac50fnev2/proprietary/vendor/lib/libui_ext.so:system/vendor/lib/libui_ext.so \
