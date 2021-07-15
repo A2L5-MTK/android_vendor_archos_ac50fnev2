@@ -98,6 +98,7 @@ PRODUCT_COPY_FILES += \
     vendor/archos/ac50fnev2/proprietary/vendor/lib/hw/sensors.mt6580.so:system/vendor/lib/hw/sensors.mt6580.so \
     vendor/archos/ac50fnev2/proprietary/vendor/lib/lib3a.so:system/vendor/lib/lib3a.so \
     vendor/archos/ac50fnev2/proprietary/vendor/lib/libJpgEncPipe.so:system/vendor/lib/libJpgEncPipe.so \
+    vendor/archos/ac50fnev2/proprietary/vendor/lib/libWVStreamControlAPI_L3.so:system/vendor/lib/libWVStreamControlAPI_L3.so \
     vendor/archos/ac50fnev2/proprietary/vendor/lib/libaed.so:system/vendor/lib/libaed.so \
     vendor/archos/ac50fnev2/proprietary/vendor/lib/libaudiocompensationfilter.so:system/vendor/lib/libaudiocompensationfilter.so \
     vendor/archos/ac50fnev2/proprietary/vendor/lib/libaudiocomponentengine.so:system/vendor/lib/libaudiocomponentengine.so \
@@ -194,6 +195,8 @@ PRODUCT_COPY_FILES += \
     vendor/archos/ac50fnev2/proprietary/vendor/lib/libvcodec_oal.so:system/vendor/lib/libvcodec_oal.so \
     vendor/archos/ac50fnev2/proprietary/vendor/lib/libvcodec_utility.so:system/vendor/lib/libvcodec_utility.so \
     vendor/archos/ac50fnev2/proprietary/vendor/lib/libvcodecdrv.so:system/vendor/lib/libvcodecdrv.so \
+    vendor/archos/ac50fnev2/proprietary/vendor/lib/libwvdrm_L3.so:system/vendor/lib/libwvdrm_L3.so \
+    vendor/archos/ac50fnev2/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
     vendor/archos/ac50fnev2/proprietary/vendor/lib/mtk-ril.so:system/vendor/lib/mtk-ril.so \
     vendor/archos/ac50fnev2/proprietary/vendor/lib/mtk-rilmd2.so:system/vendor/lib/mtk-rilmd2.so \
     vendor/archos/ac50fnev2/proprietary/vendor/lib/mtk-rilproxy.so:system/vendor/lib/mtk-rilproxy.so
